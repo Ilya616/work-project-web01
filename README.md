@@ -9,3 +9,4 @@ Vera
 ok
 Vera pull request
 Daria PR
+adding from Portugalez1
